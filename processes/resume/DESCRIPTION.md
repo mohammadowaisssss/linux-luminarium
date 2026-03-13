@@ -5,3 +5,5 @@ To resume processes, your shell provides the `fg` command, a builtin that takes 
 Go try it out!
 This challenge's `run` needs you to suspend it, then resume it.
 Good luck!
+
+TIP: fg takes a leading "%" character and a job ID (and not process ID).
